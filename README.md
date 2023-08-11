@@ -103,15 +103,15 @@
   </table>      
       </div>
 
-<h2 align='center'>Meus Status 📊 : </h2>
+<h2 align='center'>Meu Status 📊 : </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=RodrigoD1a5" height="150" alt="stats graph"  />
+<!--   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=RodrigoD1a5" height="150" alt="stats graph"  /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=RodrigoD1a5" height="150" alt="languages graph"  />
 </div>
 
 <div align="center">
-      <h3> Thank you for visiting my profile! 👋 </h3>
+      <h3> Obrigado por visitar meu perfil! 👋 </h3>
       </div> 
   
 <br clear="both">
